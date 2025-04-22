@@ -58,8 +58,8 @@ This repository contains code and resources for solving my assignment questions 
    - **Jupyter Notebook** for analysis and visualization
 
   ## Contact
-   lokeshpuli472@gmail.com
-   Lokesh Puli
+   lokeshpuli472@gmail.com <br>
+   - Lokesh Puli
     
     
     
