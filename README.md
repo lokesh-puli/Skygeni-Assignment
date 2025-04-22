@@ -59,7 +59,7 @@ This repository contains code and resources for solving my assignment questions 
 
   ## Contact
    lokeshpuli472@gmail.com <br>
-   - Lokesh Puli
+   Lokesh Puli
     
     
     
